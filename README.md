@@ -1,8 +1,4 @@
-<h1 align="center">
-  MNIST Classification
-</h1>
-
-<br />
+# MNIST Classification
 
 Building a deep learning model for recognizing handwritten numbers using **Python**, **Tensorflow**, **Sklearn** and **Numpy**. 
 This project is about using _non-negative matrix factorization_ for _weight initialization_ in autoencoders.
